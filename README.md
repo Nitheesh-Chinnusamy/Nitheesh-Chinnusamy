@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitheesh-Chinnusamy
-- 👀 I’m a Software Engineer (Fresher)
+- 👀 I’m a Junior Software Developer(Fresher)
 - 🌱 I’m currently learning Advanced Java
 
 <!---
