@@ -49,4 +49,5 @@
 
 ## 🐍 Contribution Snake  
 
-![Snake animation](https://github.com/Nitheesh-Chinnusamy/Nitheesh-Chinnusamy/blob/output/github-contribution-grid-snake-dark.svg)  
+![Snake animation](https://github.com/Nitheesh-Chinnusamy/Nitheesh-Chinnusamy/blob/output/snake-dark.svg)
+ 
