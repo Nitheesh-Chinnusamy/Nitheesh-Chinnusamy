@@ -61,27 +61,6 @@
 
 ---
 
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitheesh-Chinnusamy&show_icons=true&theme=radical" alt="Nitheesh’s GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitheesh-Chinnusamy&theme=radical" alt="GitHub Streak" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitheesh-Chinnusamy&layout=compact&theme=radical" alt="Top Langs" height="160"/>
-</p>
-
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nitheesh-Chinnusamy&theme=radical&no-frame=true&no-bg=true&margin-w=15&no-link=true&title=Commit,Repositories,Stars,Followers,Issues,PullRequest" alt="GitHub Trophies"/>
-</p>
-
-
----
-
 ## 🐍 Contribution Snake  
 
 ![Snake animation](https://github.com/Nitheesh-Chinnusamy/Nitheesh-Chinnusamy/blob/output/snake-dark.svg)
