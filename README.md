@@ -1,11 +1,18 @@
 # 👋 Hi, I’m Nitheesh  
 
-💻 **Full-Stack Developer** | React • Redux Toolkit Query • Python • Django • SQL • Docker • Linux  
-🌱 Currently diving into **AI & System Design**  
-🚀 Passionate about building scalable apps with clean UI/UX  
-📫 Reach me at: nitheeshchinnusamy21@gmail.com
-🌐 Know more about me at: [nitheeshchinnusamy.me](https://nitheeshchinnusamy.me)
+### 💻 Software Engineer
 
+- ⚛️ React & Redux Toolkit Query  
+- 🐍 Python & Django  
+- 🗄️ SQL  
+- 🐳 Docker  
+- 🐧 Linux  
+
+🌱 Exploring **AI & System Design**  
+🚀 Building scalable applications with clean UI/UX  
+
+📫 **Email:** nitheeshchinnusamy21@gmail.com  
+🌐 **Portfolio:** [nitheeshchinnusamy.me](https://nitheeshchinnusamy.me)
 
 ---
 
