@@ -4,6 +4,7 @@
 🌱 Currently diving into **AI & System Design**  
 🚀 Passionate about building scalable apps with clean UI/UX  
 📫 Reach me at: nitheeshchinnusamy21@gmail.com
+
 🌐 Know more about me at: nitheeshchinnusamy.me
 
 
